@@ -1,5 +1,4 @@
 # Graphic-Designs
-# Graphic Design Portfolio
 
 Welcome to my graphic design portfolio! This repository contains a collection of business card designs, letterheads, and logos that I've created using Photoshop.
 
